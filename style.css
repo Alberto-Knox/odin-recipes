@@ -1,0 +1,43 @@
+body{
+    background-color: lightyellow;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+
+    font-family: 'Karla', sans-serif;
+    max-width: 700px;
+    margin:auto;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: 700 ;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img{
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+
+ul{
+    text-align:left;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a.homepage{
+    font-size: 36px;
+    display: block;
+    text-align: center;
+    color: blue;
+    background-color: blanchedalmond;
+    width: auto;
+}
